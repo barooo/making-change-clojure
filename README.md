@@ -1,13 +1,7 @@
 # making-change-kata
 
-A Clojure library designed to ... well, that part is up to you.
+The Making Change kata in Clojure.
 
-## Usage
-
-FIXME
-
-## License
-
-Copyright © 2012 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
+I feel like I jumped into having an array of coin denominations before
+I needed it, I was probably one test short of being forced into it,
+but the end result seems reasonable.
